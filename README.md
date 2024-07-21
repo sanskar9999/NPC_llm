@@ -50,6 +50,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 Acknowledgments
 
-- Anthropic for the Llama 3 70B model
+- Meta for the Llama 3 70B model
 - Groq for their API services
 - Google for the Custom Search API
